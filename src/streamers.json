@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "category": "Software Development",
+        "streamer": "John Doe",
+        "bio": "Experienced software developer and daily Twitch streamer, engaging with viewers over coding and gaming.",
+        "thumbnail": "https://via.placeholder.com/150",
+        "viewcount": "1200",
+        "location": "United States"
+    },
+    {
+        "id": "2",
+        "category": "Software Development",
+        "streamer": "Jane Smith",
+        "bio": "I am a full stack developer with a love for tech. Watch as I build and discuss projects live on stream!",
+        "thumbnail": "https://via.placeholder.com/150",
+        "viewcount": "1500",
+        "location": "Canada"
+    },
+    {
+        "id": "3",
+        "category": "Software Development",
+        "streamer": "Alice Johnson",
+        "bio": "Diving deep into cloud computing and large scale systems, sharing practical insights and complex solutions.",
+        "thumbnail": "https://via.placeholder.com/150",
+        "viewcount": "1800",
+        "location": "United Kingdom"
+    },
+    {
+        "id": "4",
+        "category": "Software Development",
+        "streamer": "Bob Lee",
+        "bio": "Exploring the nuances of software architecture and design, I provide expert analysis and tips on system structuring.",
+        "thumbnail": "https://via.placeholder.com/150",
+        "viewcount": "2200",
+        "location": "Australia"
+    },
+    {
+        "id": "5",
+        "category": "Software Development",
+        "streamer": "Carol Taylor",
+        "bio": "Join me as we tackle coding basics and computer science fundamentals. Perfect for beginners looking to learn!",
+        "thumbnail": "https://via.placeholder.com/150",
+        "viewcount": "1300",
+        "location": "New Zealand"
+    },
+    {
+        "id": "6",
+        "category": "Software Development",
+        "streamer": "Dave Wilson",
+        "bio": "I'm a developer passionate about open-source projects, sharing how to contribute to and build meaningful software.",
+        "thumbnail": "https://via.placeholder.com/150",
+        "viewcount": "1400",
+        "location": "Germany"
+    }
+]
